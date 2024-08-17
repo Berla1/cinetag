@@ -20,3 +20,7 @@
 .favoritar {
     width: 25px;
 }
+
+.card h2{
+    text-decoration: none;
+}
